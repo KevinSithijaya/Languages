@@ -31,9 +31,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <h5>Mobile</h5>
-    <img src="https://skillicons.dev/icons?i=flutter,dart,react,lonic,swift,kotlin,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,react,lonic,swift,kotlin,androidstudio,java,androidstudio" />
     <h5>Desktop</h5>
-    <img src="https://skillicons.dev/icons?i=electron,tauri,qt,vala" />
+    <img src="https://skillicons.dev/icons?i=c#,python,c++,electron,tauri,qt,vala" />
   </a>
 </p>
 
